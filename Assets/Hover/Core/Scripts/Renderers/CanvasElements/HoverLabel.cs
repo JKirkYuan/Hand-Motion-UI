@@ -71,7 +71,7 @@ namespace Hover.Core.Renderers.CanvasElements {
 		/*--------------------------------------------------------------------------------------------*/
 		private void BuildText() {
 			Text text = TextComponent;
-			text.text = "Label";
+			text.text = "foofoo";
 			text.font = Resources.Load<Font>("Fonts/Tahoma");
 			text.fontSize = 40;
 			text.lineSpacing = 0.75f;
