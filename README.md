@@ -1,4 +1,4 @@
-# Raidal Menu with LeapMotion
+# Radial Menu with LeapMotion
 
 This is the repo where I will use the HoverUI kit to create a navigable Radial Menu
 for VR, I created my own version that can be used for Desktop Users. :tada: :tada:
